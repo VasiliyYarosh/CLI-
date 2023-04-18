@@ -1,0 +1,19 @@
+{
+  "name": "hw-1-yarosh",
+  "version": "1.0.0",
+  "description": "This homework belongs Vasyly`s",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Vasyl Yarosh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "nanoid": "^3.3.4",
+    "yargs": "^17.7.1"
+  }
+}
